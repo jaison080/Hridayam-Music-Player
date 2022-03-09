@@ -12,7 +12,7 @@ const cover = document.querySelector('#cover')
 const songs = ['Arike Ninna', 'Bas Kar Ji', 'Darshana','Kural Kekkutha','Manasse Manasse','Minnalkkodi','Mukilinte','Nagumo','Onakka Munthiri','Pottu Thotta Pournami','Puthiyoru Lokam','Sarvam Sadha','Thathaka Theithare']
 const images = ['Arike Ninna', 'Bas Kar Ji', 'Darshana','Kural Kekkutha','Manasse Manasse','Minnalkkodi','Mukilinte','Nagumo','Onakka Munthiri','Pottu Thotta Pournami','Puthiyoru Lokam','Sarvam Sadha','Thathaka Theithare']
 //keep track of the songs
-let songIndex = 2
+let songIndex = 0
 
 //initially load song info DOM
 loadSong(songs[songIndex], images[songIndex])
