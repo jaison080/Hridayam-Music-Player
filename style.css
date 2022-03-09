@@ -135,3 +135,12 @@ body{
     width: 50%;
     transition: width 0.1s linear;
 }
+.footer__copy {
+    font-size: 0.75rem;
+  }
+  .footer__social {
+    margin-bottom: var(--mb-4);
+  }
+  .project{
+     text-align: center;
+  }
